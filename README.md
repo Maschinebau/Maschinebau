@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Alex
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Russia 🇷🇺</h3>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white")>
 
 <!--
