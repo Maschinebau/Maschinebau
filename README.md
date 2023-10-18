@@ -4,7 +4,7 @@ Frontend developer
 
 - 🤝 Ready to collaborate with experienced colleagues
 - ✍🏻 Aimed at beautifull and clean code writing
-- 📫 How to reach me: <a  href="http://t.me/ro_runner" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a><a  href="https://www.instagram.com/ro.runner/" target="_blank"> <img src="./src/social/ig.png" alt="Instagram" height = 20></a><a  href="mailto:ro.chernikov@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 
   ### 💻 Технологии:
