@@ -4,8 +4,7 @@ Frontend developer
 
 - 🤝 Ready to collaborate with experienced colleagues
 - ✍🏻 Aimed at beautifull and clean code writing
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
-https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-dfsdfs-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
   ### 💻 Технологии:
 <br>
