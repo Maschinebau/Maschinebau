@@ -1,4 +1,4 @@
-# Hi, i'm Alex <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hi, i'm Alex 
 
 Frontend developer
 
@@ -17,6 +17,7 @@ https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=j
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
