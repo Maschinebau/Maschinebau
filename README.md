@@ -4,7 +4,7 @@ Frontend developer
 
 - 🤝 Ready to collaborate with experienced colleagues
 - ✍🏻 Aimed at beautifull and clean code writing
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-dfsdfs-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maschinebau) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:saxmail0722@gmail.com)
 
   ### 💻 Технологии:
 <br>
