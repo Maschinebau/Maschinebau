@@ -20,7 +20,6 @@ Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div>
 <br>
-***
 
 ![codewars](https://www.codewars.com/users/Maschinebau/badges/small)
 
