@@ -1,6 +1,6 @@
-# Hi there <img src="./src/wave.gif" width="30">
+# Hi there, I'm Alex <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-My name is Rodion (or just Ro), and I'm a frontend developer.
+Frontend developer
 
 - 👨🏻‍🎓 Yandex.Practicum student
 - 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
