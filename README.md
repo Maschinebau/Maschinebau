@@ -2,8 +2,6 @@
 
 Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- 🤝 Ready to collaborate with experienced colleagues
-- ✍🏻 Aimed at beautifull and clean code writing
 - 📫 How to reach me: [Telegram](https://t.me/Maschinebau), [Gmail](mailto:saxmail0722@gmail.com)
 ***
   ### 💻 Tech-stack:
